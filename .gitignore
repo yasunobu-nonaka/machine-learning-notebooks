@@ -5,3 +5,6 @@ __pycache__/
 
 # visual studio code
 .vscode/
+
+# mac
+.DS_Store
