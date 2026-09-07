@@ -3,5 +3,14 @@
 __pycache__/
 .pytest_cache/
 
+# Jupyter Notebook
+.ipynb_checkpoints/
+
 # visual studio code
 .vscode/
+
+# mac
+.DS_Store
+
+# submit
+submit/
