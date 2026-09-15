@@ -9,8 +9,17 @@ __pycache__/
 # visual studio code
 .vscode/
 
+# test any codes
+playground/
+
 # mac
 .DS_Store
 
 # submit
 submit/
+
+# figures(pdf)
+torch_mnn/figures/
+
+# MNIST dataset
+torch_mnn/data/
